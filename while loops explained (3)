@@ -1,0 +1,10 @@
+import sys
+
+answerOK = False
+while  answerOK == False:
+
+  answer = input("exit? y or n ").upper()
+  if answer == "Y":
+    answerOK = True
+
+   exit sys 
