@@ -1,0 +1,2 @@
+for singleletter in "vfuiorhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhaul":
+  print(singleletter *1000000000000000000000000000000000000)
