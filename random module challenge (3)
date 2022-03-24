@@ -1,0 +1,10 @@
+import random
+headstails = ["heads", "tails"]
+coin = random.choice(headstails)
+user = str(input("heads or tails"))
+
+if user == coin:
+  print("you win it was",coin)
+
+else:
+  print("bad luck it was",coin )
