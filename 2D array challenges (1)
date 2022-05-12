@@ -1,0 +1,7 @@
+MySpaceCompany = []
+
+MySpaceCompany.append(input("enter a space vehicle >>>"))
+MySpaceCompany.append(input("enter another space vehicle >>>"))
+MySpaceCompany.append(input("enter another space vehicle >>>"))
+
+print(MySpaceCompany)
