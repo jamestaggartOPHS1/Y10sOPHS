@@ -1,0 +1,9 @@
+EnterNames = open("names.txt", "w")
+
+EnterNames.write("gary\n")
+EnterNames.write("stevie\n")
+EnterNames.write("chris\n")
+EnterNames.write("johnny\n")
+EnterNames.write("tom cruise\n")
+
+EnterNames.close()
