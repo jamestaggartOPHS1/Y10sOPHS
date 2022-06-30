@@ -1,0 +1,5 @@
+new = open("number.txt", "w")
+EnterNumber = input(str("enter 5 numbers >>>>"))
+
+new.write(EnterNumber)
+new.close()
